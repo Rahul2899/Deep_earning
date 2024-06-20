@@ -1,2 +1,2 @@
-# Deep_earning
+# Deep_Learning
 Learning concepts and implenting
