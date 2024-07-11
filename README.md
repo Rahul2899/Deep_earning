@@ -1,2 +1,2 @@
 # Deep_Learning
-Learning concepts and implenting
+Learning concepts and implementing
