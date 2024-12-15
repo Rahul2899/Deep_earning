@@ -1,4 +1,4 @@
-# Deep Learning Repository
+# Deep Learning 
 
 ## Overview
 This repository contains various implementations and experiments in deep learning. It focuses on the practical applications of neural networks and showcases the use of popular deep learning frameworks like PyTorch and TensorFlow.
